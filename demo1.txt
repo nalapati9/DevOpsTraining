@@ -4,8 +4,8 @@
 	mkdir gitdemo
 	cd gitdemo
 
-3.	git config --global user.name 'Vasiahli Kulkarni'
-4.	git config --global user.email 'vaishali.kulkarni@capgemini.com'
+3.	git config --global user.name 'raju'
+4.	git config --global user.email 'raju@gmail.com'
 5.	git config -l
 
 6.	git init project1
